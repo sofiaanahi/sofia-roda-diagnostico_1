@@ -56,7 +56,6 @@ Este es un ejercicio básico para practicar el uso de EJS en un proyecto de Node
 
    - Una vez que el código esté en el repositorio de GitHub, los estudiantes deben compartir el enlace del repositorio con el instructor para que pueda revisar su trabajo.
 
-
 ## Recursos adicionales
 
 - [Documentación de EJS](https://ejs.co/): Puedes consultar la documentación oficial de EJS para obtener más información sobre cómo trabajar con EJS templates.
